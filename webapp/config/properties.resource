@@ -1,4 +1,4 @@
-${BROWSER}            Chrome
+${BROWSER}             Chrome
 ${BASE_URL}            https://qa.curatr3.com/login
 ${ADMIN_USER}          orgadmin
 ${USER_PASSWORD}       welcome1

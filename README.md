@@ -49,7 +49,7 @@ robot -i sanity TestSuiteName
   
 Set runtime variables:
 ```shell script
-robot -i sanity -v BROWSER:Chrome -v LOGIN_URL:https://qa.curatr3.com/ TestSuiteName
+robot -i login -v BROWSER:Chrome <TestSuiteName>
 ```
 
 ### Results

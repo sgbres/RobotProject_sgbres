@@ -14,9 +14,7 @@ Python or Java.Detailed documentation on *Robot Framework* can be found at [Robo
 
 1. Download latest version of *Python* for OS (current 3.9.0) from [Python Downloads] (http://python.org/downloads)
 
-3. Install either VSCode or Pycharm and create a virtual environment for the project
-
-2. Project dependencies should auto install from the requirements.txt file
+2. Install either VSCode or Pycharm and create a virtual environment for the project
 
 3. Clone project repo
 
@@ -25,7 +23,9 @@ git clone https://github.com/sgbres/rf_training.git
 ```
 ---
 
-4. Install webdrivers from *Browsers* section on [Selenium](https://www.selenium.dev/downloads/).  
+4. Project dependencies should auto install from the requirements.txt file
+
+5. Install webdrivers from *Browsers* section on [Selenium](https://www.selenium.dev/downloads/).  
    Add drivers to Python Scripts location e.g. 'C:\Users\<username>\AppData\Local\Programs\Python\Python39\Scripts'.
 
 #### Terminal

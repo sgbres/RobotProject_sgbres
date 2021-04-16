@@ -1,0 +1,16 @@
+venv*
+.venv*
+.env
+venv*
+.venv*
+.env
+.idea
+.vscode
+.*project
+.project
+log*
+output*
+report*
+results
+libspecs
+.pabot*

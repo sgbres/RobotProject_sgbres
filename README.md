@@ -34,22 +34,22 @@ git clone https://github.com/sgbres/rf_training.git
 
 Run all tests:
 ```shell script
-robot TestSuiteName
+robot <TestSuiteName>
 ```
   
 Run specific test case:
 ```shell script
-robot -t TestName TestSuiteName
+robot -t <TestName> <TestSuiteName>
 ```
 
 Run tests using tags:
 ```shell script
-robot -i sanity TestSuiteName
+robot -i sanity <TestSuiteName>
 ```
   
 Set runtime variables:
 ```shell script
-robot -i login -v BROWSER:Chrome <TestSuiteName>
+robot -v browser:headlesschrome <TestSuiteName>
 ```
 
 ### Results
